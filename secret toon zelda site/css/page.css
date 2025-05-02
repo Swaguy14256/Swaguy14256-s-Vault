@@ -1,0 +1,112 @@
+body {
+  background-color: #AE0046;
+  background-image: url("../bg.png");
+  image-rendering: auto;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+}
+h1 {
+  text-align: center;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 120px;
+}
+h2 {
+  text-align: center;
+  color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+}
+h4 {
+  text-align: center;
+  color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
+p {
+  text-align: center;
+  color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+p2 {
+  text-align: center;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+div {
+  background-color: #ffffff;
+  padding: 15px;
+  image-rendering: auto;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+}
+.img1 {
+  width: 45%;
+  image-rendering: auto;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+}
+.img2 {
+  width: 0%;
+  image-rendering: auto;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+}
+.img95 {
+  width: 95%;
+  image-rendering: auto;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+}
+.buy {
+  border-color: #0033ff;
+  background-color: #0066FF;
+  font-size: 30px;
+  
+}
+a {
+  color: #000000;
+  font-size: 20px;
+  text-decoration: none;
+  margin: 10px
+}
+.center {
+  text-align: center;
+}
+
+.blue_box {
+  background-color: #FFAAAA;
+  border: 5px solid #FFFFFF;
+}
+
+.thumb {
+	height: 100px;
+	vertical-align: middle;
+	margin: 1%;
+}
+
+.large_image {
+	width: 90%;
+	align: center;
+}
+
+.small_image {
+	height: 100px;
+	align: center;
+}
+
+.p1{
+  text-align: left;
+  color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+.p2{
+  text-align: left;
+  color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  margin: 0px;
+}
