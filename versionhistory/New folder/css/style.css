@@ -1,0 +1,45 @@
+body {
+  background-color: #FF0CFF;
+}
+h1 {
+  font-size: 55px;
+  text-align: center;
+  color: #000000;
+  background-color: #FFFFFF;
+}
+h2 {
+  font-size: 45px;
+  text-align: center;
+  color: #000000;
+  background-color: #FFFFFF;
+}
+h3 {
+  font-size: 35px;
+  text-align: center;
+  color: #000000;
+}
+p {
+  font-size: 25px;
+  color: #000000;
+}
+div {
+  background-color: #FFFFFF;
+  padding: 2px;
+}
+img {
+  image-rendering: auto;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+}
+.menubar {
+  font-size: 35px;
+  text-align: center;
+  color: #000000;
+  text-decoration: none;
+  margin: 10px;
+}
+.link {
+  font-size: 25px;
+  color: #000000;
+  
+}

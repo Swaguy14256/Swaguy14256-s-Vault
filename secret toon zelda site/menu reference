@@ -1,0 +1,3 @@
+<div w3-include-html="/menubar.html"></div>
+<script src="/menubar.js"></script>
+<p></p>
