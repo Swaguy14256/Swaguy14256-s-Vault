@@ -1,1 +1,0 @@
-window.location.href = "https://secrettoonzeldasite--wms.repl.co/no.html"

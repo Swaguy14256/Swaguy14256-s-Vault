@@ -1,7 +1,0 @@
-Plans to improve this epic site:
-
-- Add the ultimate bag of images to the site
-- Create a 'cosplay' category
-- Create a 'vore' category
-- Finish the gallery
-- Improve the method of adding images to reduce workload
