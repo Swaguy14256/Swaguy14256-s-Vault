@@ -2,3 +2,4 @@ RewriteEngine On
 RewriteCond %{HTTP_HOST} ^swaguy14256svault.com [NC]
 RewriteRule ^(.*)$ http://www.swaguy14256svault.com/$1 [L,R=301]
 Redirect 404 /.gitignore
+Redirect 404 /.git/
